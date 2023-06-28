@@ -65,3 +65,11 @@ The project demonstrates the use of Python programming language to
 solve classic problems in artificial intelligence. The project can be
 improved by implementing other algorithms such as the A* algorithm
 and by adding more complex environments.
+
+
+Initial state:
+<img width="145" alt="image" src="https://github.com/TayyibI/Wumpus-World-traversal-agent/assets/94107654/bdcd97c7-ac8e-4446-8f95-1c1df031f79d">
+
+Final state:
+<img width="124" alt="image" src="https://github.com/TayyibI/Wumpus-World-traversal-agent/assets/94107654/f8fcbc85-5b26-4f40-9992-f050de73122f">
+
